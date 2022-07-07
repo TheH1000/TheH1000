@@ -13,7 +13,7 @@
 <details>
   <summary>:zap: About me!</summary>
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+### 🔬 FrontEnd Programmer 💻!!
 - 🎤 I love Music!
 - 🤓  I’m currently learning everything
 - 👾  JavaScript is my favorite programming language
