@@ -30,7 +30,7 @@
 <td>
 
 
-[<img align="left" alt="Neovim | Editor" width="50px" src="./src/neovim.png" />[neovim]
+<img align="left" alt="Neovim | Editor" width="50px" src="./src/neovim.png" />[neovim]
 
 </td>
 <td> <h4 align="left"> <a href="https://neovim.io/" target="_blank"><code>My Code Editor</code></a> </h4>
