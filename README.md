@@ -1,6 +1,6 @@
 [!TheH1000](https://github.com/TheH1000)
 
-<h1 align="center">Hi there, I'm Kendry - TheH1000 <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Kendry - TheH1000 <img src="./src/wave2.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
