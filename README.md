@@ -1,6 +1,6 @@
 [!TheH1000](https://github.com/TheH1000)
 
-<h1 align="center">Hi there, I'm Kendry - TheH1000 <img src="./src/wave2.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Kendry - TheH1000 <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
@@ -30,7 +30,7 @@
 <td>
 
 
-[<img align="left" alt="Neovim | Editor" width="50px" src="./src/neovim.png" />][neovim]
+[<img align="left" alt="Neovim | Editor" width="50px" src="./src/neovim.png" />[neovim]
 
 </td>
 <td> <h4 align="left"> <a href="https://neovim.io/" target="_blank"><code>My Code Editor</code></a> </h4>
